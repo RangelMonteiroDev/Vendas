@@ -68,7 +68,7 @@ Vendas-app/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://https://github.com/RangelMonteiroDev/Vendas
+git clone https://https://github.com/RangelMonteiroDev/Vendas.git
 cd Vendas-app
 ```
 
