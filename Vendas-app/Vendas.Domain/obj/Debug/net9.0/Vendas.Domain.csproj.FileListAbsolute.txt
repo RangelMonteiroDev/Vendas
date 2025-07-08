@@ -1,0 +1,17 @@
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\bin\Debug\net9.0\Vendas.Domain.exe
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\bin\Debug\net9.0\Vendas.Domain.deps.json
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\bin\Debug\net9.0\Vendas.Domain.runtimeconfig.json
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\bin\Debug\net9.0\Vendas.Domain.dll
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\bin\Debug\net9.0\Vendas.Domain.pdb
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.csproj.AssemblyReference.cache
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.AssemblyInfoInputs.cache
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.AssemblyInfo.cs
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.D.833BAD05.Up2Date
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.dll
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\refint\Vendas.Domain.dll
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.pdb
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.genruntimeconfig.cache
+C:\dotnet\learm\projetos\Vendas\Solution1\Vendas.Domain\obj\Debug\net9.0\ref\Vendas.Domain.dll
